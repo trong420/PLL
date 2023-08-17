@@ -1,0 +1,4 @@
+Circuit: * D:\ltspice\FFD.asc
+
+Fatal Error: Infinite subckt recursion.
+Maximum allowed nest level is 64 levels.

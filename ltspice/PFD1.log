@@ -1,0 +1,104 @@
+Circuit: * D:\ltspice\PFD1.asc
+
+Instance "m14": Length shorter than recommended for a level 1 MOSFET.
+Instance "m14": Width narrower than recommended for a level 1 MOSFET.
+Instance "m12": Length shorter than recommended for a level 1 MOSFET.
+Instance "m12": Width narrower than recommended for a level 1 MOSFET.
+Instance "m10": Length shorter than recommended for a level 1 MOSFET.
+Instance "m10": Width narrower than recommended for a level 1 MOSFET.
+Instance "m8": Length shorter than recommended for a level 1 MOSFET.
+Instance "m8": Width narrower than recommended for a level 1 MOSFET.
+Instance "m6": Length shorter than recommended for a level 1 MOSFET.
+Instance "m6": Width narrower than recommended for a level 1 MOSFET.
+Instance "m3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m3": Width narrower than recommended for a level 1 MOSFET.
+Instance "m13": Length shorter than recommended for a level 1 MOSFET.
+Instance "m13": Width narrower than recommended for a level 1 MOSFET.
+Instance "m11": Length shorter than recommended for a level 1 MOSFET.
+Instance "m11": Width narrower than recommended for a level 1 MOSFET.
+Instance "m9": Length shorter than recommended for a level 1 MOSFET.
+Instance "m9": Width narrower than recommended for a level 1 MOSFET.
+Instance "m7": Length shorter than recommended for a level 1 MOSFET.
+Instance "m7": Width narrower than recommended for a level 1 MOSFET.
+Instance "m5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m5": Width narrower than recommended for a level 1 MOSFET.
+Instance "m4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m4": Width narrower than recommended for a level 1 MOSFET.
+Instance "m2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m2": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Changing Tseed to 1e-013
+Changing Tseed to 1e-015
+Changing Tseed to 1e-012
+Changing Tseed to 1e-016
+Heightened Def Con from 4.2e-006 to 4.2e-006
+Heightened Def Con from 4.2e-006 to 4.2e-006
+Heightened Def Con from 4.2e-006 to 4.2e-006
+Heightened Def Con from 4.2e-006 to 4.2e-006
+Heightened Def Con from 4.2e-006 to 4.2e-006
+Heightened Def Con from 4.2e-006 to 4.2e-006
+Heightened Def Con from 4.2e-006 to 4.2e-006
+Heightened Def Con from 4.2e-006 to 4.2e-006
+Heightened Def Con from 4.2e-006 to 4.2e-006
+Heightened Def Con from 4.2e-006 to 4.2e-006
+Heightened Def Con from 4.2e-006 +to 4.2e-006
+Heightened Def Con from 4.2e-006 +to 4.2e-006
+Heightened Def Con from 4.2e-006 +to 4.2e-006
+Heightened Def Con from 4.2e-006 +to 4.2e-006
+Heightened Def Con from 4.2e-006 +to 4.2e-006
+Heightened Def Con from 4.2e-006 +to 4.2e-006
+Heightened Def Con from 4.2e-006 to 4.2e-006
+Heightened Def Con from 7.5e-006 to 7.5e-006
+Heightened Def Con from 7.5e-006 to 7.5e-006
+Heightened Def Con from 7.5e-006 to 7.5e-006
+Heightened Def Con from 7.5e-006 to 7.5e-006
+Heightened Def Con from 7.5e-006 to 7.5e-006
+Heightened Def Con from 7.5e-006 to 7.5e-006
+Heightened Def Con from 7.5e-006 to 7.5e-006
+Heightened Def Con from 7.5e-006 to 7.5e-006
+Heightened Def Con from 7.5e-006 to 7.5e-006
+Heightened Def Con from 7.5e-006 to 7.5e-006
+Heightened Def Con from 7.5e-006 +to 7.5e-006
+Heightened Def Con from 7.5e-006 +to 7.5e-006
+Heightened Def Con from 7.5e-006 +to 7.5e-006
+Heightened Def Con from 7.5e-006 +to 7.5e-006
+Heightened Def Con from 7.5e-006 +to 7.5e-006
+Heightened Def Con from 7.5e-006 +to 7.5e-006
+Heightened Def Con from 7.5e-006 to 7.5e-006
+Heightened Def Con from 9.6e-006 to 9.6e-006
+Heightened Def Con from 9.6e-006 to 9.6e-006
+Heightened Def Con from 9.6e-006 to 9.6e-006
+Heightened Def Con from 9.6e-006 to 9.6e-006
+Heightened Def Con from 9.6e-006 to 9.6e-006
+Heightened Def Con from 9.6e-006 to 9.6e-006
+Heightened Def Con from 9.6e-006 to 9.6e-006
+Heightened Def Con from 9.6e-006 to 9.6e-006
+Heightened Def Con from 9.6e-006 to 9.6e-006
+Heightened Def Con from 9.6e-006 to 9.6e-006
+Heightened Def Con from 9.6e-006 +to 9.6e-006
+Heightened Def Con from 9.6e-006 +to 9.6e-006
+Heightened Def Con from 9.6e-006 +to 9.6e-006
+Heightened Def Con from 9.6e-006 +to 9.6e-006
+Heightened Def Con from 9.6e-006 +to 9.6e-006
+Heightened Def Con from 9.6e-006 +to 9.6e-006
+Heightened Def Con from 9.6e-006 to 9.6e-006
+
+Date: Thu Mar 30 16:41:52 2023
+Total elapsed time: 0.337 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 13158
+traniter = 13129
+tranpoints = 3111
+accept = 2351
+rejected = 825
+matrix size = 14
+fillins = 0
+solver = Normal
+Matrix Compiler1: 708 bytes object code size  0.3/0.1/[0.1]
+Matrix Compiler2: off  [0.2]/0.2/0.2
+
