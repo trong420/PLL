@@ -1,43 +1,90 @@
-# pll
 
 <div align="center">
 
-<h1>Design Phase Locked Loop Circuit With CMOS 130nm Technology</h1>
+<h1>Design Phase Locked Loop 100MHz Circuit With CMOS 130nm Technology (LTSPICE)</h1>
 </div>
 
-
-**1. FPD - Phase Frequency Detector** 
-
-- Change to the lab2_dp directory, invoke IC Compiler and start the GUI:
-
-- Open the orca_setup cell from the orca_lib.mw design library
+**Block diagram of PLL**
+![image](https://github.com/trong420/pll/assets/90754954/d6bc4fe4-8550-4429-8803-8a4a6f729901)
 
 
-- Apply timing and optimization controls which are specified
+**1. PFD - Phase Frequency Detector** 
+
+- Schematic DFF
+
+![image](https://github.com/trong420/pll/assets/90754954/4cab92ea-54e0-4a4b-a788-659aa8c1380c)
+
+- Simulation DFF
+
+![image](https://github.com/trong420/pll/assets/90754954/aa5d06ee-20c6-4984-bfff-ca14e96c1860)
+
+- Schematic PFD
+
+![image](https://github.com/trong420/pll/assets/90754954/9de4c38d-c68b-4ada-bd4a-7d01aaadfb8b)
+
+- Simulation PFD with Input phase advance
+
+![image](https://github.com/trong420/pll/assets/90754954/4bee8237-04b5-4306-99b8-96d96b9ab4a6)
+
+- Simulation PFD with VCO phase advance
+
+![image](https://github.com/trong420/pll/assets/90754954/f856c4c1-5539-4b8c-a54c-6f9ff100b962)
+
+- Simulation PFD with the same phase
+
+![image](https://github.com/trong420/pll/assets/90754954/6952c969-97d4-45d8-8493-34653f1f24e6)
+
+
+**2. Charge Pump and Filter** 
+
+- Schematic
+
+![image](https://github.com/trong420/pll/assets/90754954/92ce12f3-da92-4350-8db8-ba7c45bc446c)
+
+
+- Simulation
+
+![image](https://github.com/trong420/pll/assets/90754954/38ec9d5f-af16-42c9-9f10-c09a54deb98a)
+
+
+**3. VCO - Voltage Controlled Oscillator** 
+
+- Schematic
+
+![image](https://github.com/trong420/pll/assets/90754954/4fefe4a0-22a5-468e-b0bf-9600235f1e2c)
+
+
+- Simulation
+
+![image](https://github.com/trong420/pll/assets/90754954/fb03636e-8b7a-44ee-8044-6e16d186ba82)
+
+
+**4. Frequency Divider** 
+
+- Schematic
+
+![image](https://github.com/trong420/pll/assets/90754954/d0098378-0c50-405b-9f0a-6da2dd8cb831)
+
+
+- Simulation
+
+![image](https://github.com/trong420/pll/assets/90754954/5d4f1f94-9300-407f-9d15-c6e34aa451ae)
+
+
+**5. PLL - Simulation At 3.125 MHz** 
+
+- Schematic
+
+
+![image](https://github.com/trong420/pll/assets/90754954/6c9df851-e0e5-4a9f-9100-e09610a19ab5)
+
+
+- Simulation
+
+![image](https://github.com/trong420/pll/assets/90754954/46754122-8377-44e2-b121-6d237ee6b796)
+
+
+![image](https://github.com/trong420/pll/assets/90754954/e37c04e7-75d9-4b4c-8a1c-eb3f2651db43)
 
 
 
-**2. Initialize the floorplan** 
-
-- Create the corner and P/G cells and define all pad cell positions using a provided script:
-
-
-**3. Preplace the macros connected to I/O pads** 
-
-- In this task you will identify the macros that are connected to I/O pad cells and you 
-
-
-**4. Perform Virtual Flat Placement**
-
-- Apply a sliver size of 10 to prevent standard cells from being placed in narrow channels (< 10 um) between macros:
-  
-
-**5. Create P/G Ring Around Macros Groups**
-
-- We have created a script to create P/G rings around six groups of macros.
-
-
-- See this report: [report_qor](https://github.com/trong420/icc/blob/main/lab3_placement/report_qor.txt)
----
-NEXT
-- LAB3: [Design Planning](https://github.com/trong420/icc/tree/main/lab3_placement)
