@@ -76,7 +76,7 @@
 - Schematic
 
 
-![image](https://github.com/trong420/pll/assets/90754954/6c9df851-e0e5-4a9f-9100-e09610a19ab5)
+![image](https://github.com/trong420/pll/assets/90754954/112a515f-bc4c-4630-9d5e-bb72b78f739c)
 
 
 - Simulation
