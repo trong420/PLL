@@ -5,6 +5,8 @@
 </div>
 
 **Block diagram of PLL**
+
+
 ![image](https://github.com/trong420/pll/assets/90754954/d6bc4fe4-8550-4429-8803-8a4a6f729901)
 
 
@@ -82,6 +84,8 @@
 - Simulation
 
 ![image](https://github.com/trong420/pll/assets/90754954/46754122-8377-44e2-b121-6d237ee6b796)
+
+- After calibration, the PLL has achieved a stable frequency of 97 MHz
 
 
 ![image](https://github.com/trong420/pll/assets/90754954/e37c04e7-75d9-4b4c-8a1c-eb3f2651db43)
